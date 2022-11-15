@@ -1,0 +1,7 @@
+1.
+if the timestamp is on an even day
+mint 420 new DaliBucks
+
+2.
+if the chain id % 2 == 0
+then create a new transaction and send 0.69 DaliBucks with the message data "Even Steven!"
